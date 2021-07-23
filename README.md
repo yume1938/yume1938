@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @yume1938
+- 👀 I’m interested in data analysis.
+- 🌱 I’m currently learning R studio.
+- 💞️ I’m looking to collaborate on matters related to R studio and problems encountering coding.
+- 📫 You can reach me via my email address: dr.yume9000@gmail.com.
